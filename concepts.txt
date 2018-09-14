@@ -1,0 +1,49 @@
+CONCEPTS
+implicit numerical methods (ideally - may not be possible)
+what sort of time step is reasonable? daily or hourly are the most common 'fine' data. half hourly sometimes available. even those are maybe too large in many cases
+
+WHAT I'D LIKE TO INCORPORATE
+clapeyron - phase change
+richards - water flow
+	van genuchten - water retention curve
+fourier's law - thermal transfer
+monod kinetics - microbial kinetics empirically based on michaelis menten kinetics, which are for enzymetic
+phase changes - particulate, dissolved, sorbed, biomass. residue? unclear what this is to me. dead microbes?
+advection dispersion of compounds
+manning's flow
+snow redistribution model (based on roughness) - plants trap some snow - increase roughness perhaps
+bubble formation and transport - consider all volatile species. compare to atmospheric pressure and maybe a roughness coefficient. allow it to re-equilibrate as it goes up
+
+
+WHAT I NEED BUT DON'T KNOW HOW TO DO YET
+plants - my weakest area. i don't yet know how to approach this
+	root distribution
+	leaf distribution
+	stresses from o2, h2o, nutrients, etc?
+	movement of water
+	carbon cycle
+multiple carbon forms
+	carbohydrates
+	monomers
+	co2
+	ch4
+	acetate
+	proteins
+	plant materials
+		lingin?
+		xylem?
+		cellulose?
+		tannin?
+		cutin?
+		what are roots made of?
+	there must be a bajillion others in here. are they important?
+
+
+IMPORTANT BGC
+iron
+manganese
+sulfur
+nitrogen
+
+
+there need to be boundary conditions for everything - most important immediate concerns - water and energy boundary conditions

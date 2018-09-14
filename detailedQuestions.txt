@@ -1,0 +1,6 @@
+QUESTIONS FOR KELLY
+syntrophy question - adjusting Gibb's free energy
+Butyrate- + 2*H2O -> 2*acetate- + H+ + 2H2
+does H2O need to be accounted for when adjusting from free energy of formation to corrected free energy?
+
+trying to represent the anabolic and catabolic reactions. strugglign with the anabolic side. what represents biomass with Gibbs free energy of formation?
